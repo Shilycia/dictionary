@@ -106,17 +106,12 @@ CREATE TABLE syntax (
 
 ---
 
-## 📸 Screenshot
-
-> *(Tambahkan screenshot tampilan aplikasi di sini)*
-
----
 
 ## 👤 Author
 
-**Nama:** *(Nama kamu)*  
-**NIM:** *(NIM kamu)*  
-**Mata Kuliah:** Web Lanjut
+**Nama:** *Bintang Putra Adryan*  
+**NIM:** *2507411069*  
+**Mata Kuliah:** Pemograman Web Lanjut
 
 ---
 
